@@ -7,6 +7,7 @@ Professional idea-haver, occasional idea-shipper. Learning full-stack dev out lo
 - Learning by shipping — documenting each project as I go
 
 ## 🔭 Currently building
+- [My portfolio site](https://sshettyms.github.io/portfolio/) — first project, built with plain HTML/CSS/JS
 
 
 ## 📫 Find me
