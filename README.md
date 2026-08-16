@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sshettyms/sshettyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samruddhi — currently exploring **web development** and **security**, and documenting the process as I go.
 
-Here are some ideas to get you started:
+## 🌱 What I'm doing
+- Learning full-stack web development
+- Getting hands-on with security fundamentals
+- Building small projects to actually understand things, not just read about them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently building
+- 
+
+## 📫 Find me
+- LinkedIn: [samruddhi-shetty-ms](https://www.linkedin.com/in/samruddhi-shetty-ms-3b655a385/)
+- X: [@sxshettyms](https://x.com/sxshettyms)
