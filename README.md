@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there! I'm Samruddhi😁
 
 Professional idea-haver, occasional idea-shipper. Learning full-stack dev out loud.
 
