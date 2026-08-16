@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Samruddhi — currently exploring **web development** and **security**, and documenting the process as I go.
+I'm Samruddhi — currently exploring **web development**, and documenting the process as I go.
 
 ## 🌱 What I'm doing
 - Learning full-stack web development
