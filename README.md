@@ -1,13 +1,13 @@
 # Hi there 👋
 
-I'm Samruddhi — currently exploring **web development**, and documenting the process as I go.
+Professional idea-haver, occasional idea-shipper. Learning full-stack dev out loud.
 
 ## 🌱 What I'm doing
-- Learning full-stack web development
-- Building small projects to actually understand things, not just read about them
+- Building web apps and websites
+- Learning by shipping — documenting each project as I go
 
 ## 🔭 Currently building
-- 
+
 
 ## 📫 Find me
 - LinkedIn: [samruddhi-shetty-ms](https://www.linkedin.com/in/samruddhi-shetty-ms-3b655a385/)
